@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrderManagement.Application.Interfaces
+namespace OrderManagement.Domain.Services
 {
     
     public interface IPaymentProcessor
